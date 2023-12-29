@@ -1,9 +1,10 @@
 # Fix small khmer font for Windows 10/11
 
-## What you need
+## What you need **INSTALL FOR ALL USERS**
+Use the fonts from the static folder for best reults!
 - Noto Sans Khmer https://fonts.google.com/noto/specimen/Noto+Sans+Khmer
 - Noto Serif Khmer https://fonts.google.com/noto/specimen/Noto+Serif+Khmer
-**INSTALL FOR ALL USERS**
+
 
 ## Why do this?
 As you may have expereinced the default Khmer font installed by Windows 10/11 doesn't scale with many modern UIs like Telegram.
