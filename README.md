@@ -1,5 +1,7 @@
 # Fix small khmer font for Windows 10/11
 
+## Currently works for apps that are not Windows Native for example Telegram
+
 ## What you need **INSTALL FOR ALL USERS**
 Use the fonts from the static folder for best reults!
 I like Google Noto font series so you can use these:
