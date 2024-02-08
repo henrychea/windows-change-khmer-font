@@ -1,10 +1,7 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
-"DaunPenh"="NotoSansKhmer-Regular.ttf"
-"Khmer UI"="NotoSansKhmer-Regular.ttf"
-"Khmer UI Bold"="NotoSansKhmer-Bold.ttf"
-"Leelawadee UI"="NotoSansKhmer-Regular.ttf"
-"Leelawadee UI Bold"="NotoSansKhmer-Bold.ttf"
-"Leelawadee UI Semilight"="NotoSansKhmer-Light.ttf"
-"MoolBoran"="NotoSerifKhmer-Regular.ttf"
+"DaunPenh"="Noto Sans Khmer"
+"Khmer UI"="Noto Sans Khmer"
+"Leelawadee UI"="Noto Sans Khmer"
+"MoolBoran"="Noto Serif Khmer"
